@@ -30,10 +30,10 @@ function backgroundHour (){
     // console.log(this)
     if (rightNow > TimeColor){
     $(this).addClass('past')
-    } else if (rightNow = TimeColor) {
-      $(this).addClass('present')
-    } else {
+    } else if (rightNow < TimeColor) {
       $(this).addClass('future')
+    } else {
+      $(this).addClass('present')
     }
     
   })
