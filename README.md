@@ -4,6 +4,6 @@
 this is a daily calender that give you the date and time. This daily planner change colors depending on what hour you are on (green = future, red = present grey = past). This planner will also save all text you put in the textbox with the save button
 
 
-!()[Assets/img/Work-Day-Scheduler.png]
+!(Assets/img/Work-Day-Scheduler.png)
 
 
